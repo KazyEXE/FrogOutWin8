@@ -12,7 +12,7 @@ body{background:url(images/f.png) center center #1c3959;
     var x = 50, y = 50;
     setInterval(run, 50);
     function run() {
-        y += 2;
+        y += 0.75;
         document.body.style.backgroundPosition = x + "% " + y + "%";
         if (!Math.floor(Math.random() * 200)) {
             getOut();
@@ -27,8 +27,25 @@ body{background:url(images/f.png) center center #1c3959;
         }, 2000);
     }
 </script>
+	<script src="//Microsoft.WinJS.1.0/js/base.js" type="text/javascript"></script>
+	<script src="//Microsoft.WinJS.1.0/js/ui.js" type="text/javascript"></script>	
+	<script src="/js/frogsettings.js" type="text/javascript"></script>
+	<link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">WinJS.UI.processAll();</script>
 </head>
 <body>
 <div id="preload">GETOUT</div>
+	<div id="about" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{width:'wide'}">
+		<div class="win-header">
+			<button class="win-backbutton" onclick="WinJS.UI.SettingsFlyout.show()" type="button"></button>
+			<div class="win-label">About Frogsay</div>
+		</div>
+            <div class="win-content"> 
+                <div class="win-settings-section" style="width: 100%; height: 100%; margin: 0px;"> 
+                 <div id="onlineHelp" style="height: 100%; width: 100%; margin: 0px;"> 
+                        <iframe src="/page1.html" style="width: 100%; height: 100%; margin: 0px;"></iframe>
+                    </div> 
+                </div> 		
+	</div></div>
 </body>
 </html>

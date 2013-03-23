@@ -7,3 +7,16 @@ d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\reso
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\pri.resfiles
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\LanguageQualifiers.txt
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\ProjectArchitectures.txt
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Release\resources.pri
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Release\AppxManifest.xml
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Release\Get Out!.build.appxrecipe
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\priconfig.xml.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\layout.resfiles.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\resources.resfiles.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\pri.resfiles.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\priconfig.xml
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\layout.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\resources.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\pri.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\LanguageQualifiers.txt
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Release\ProjectArchitectures.txt

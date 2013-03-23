@@ -11,3 +11,16 @@ d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\resour
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\pri.resfiles
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\LanguageQualifiers.txt
 d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\ProjectArchitectures.txt
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Debug\resources.pri
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Debug\AppxManifest.xml
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Debug\Get Out!.build.appxrecipe
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\priconfig.xml
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\layout.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\resources.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\pri.resfiles
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\LanguageQualifiers.txt
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\ProjectArchitectures.txt
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\priconfig.xml.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\layout.resfiles.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\resources.resfiles.intermediate
+D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bld\Debug\pri.resfiles.intermediate

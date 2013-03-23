@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="24369kitfm.GetOut" Version="1.0.0.2" Publisher="CN=2A472A36-3E30-487D-B539-BD4E4F2FF005" />
+  <Identity Name="24369kitfm.GetOut" Version="1.0.0.4" Publisher="CN=2A472A36-3E30-487D-B539-BD4E4F2FF005" />
   <Properties>
     <DisplayName>Get Out!</DisplayName>
     <PublisherDisplayName>kitfm</PublisherDisplayName>

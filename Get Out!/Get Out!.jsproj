@@ -36,6 +36,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>5abc068d-d737-49b5-b767-5607dc14c56e</ProjectGuid>
+    <ExpressionBlendVersion>5.0.40218.0</ExpressionBlendVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
     <VisualStudioVersion>11.0</VisualStudioVersion>
@@ -56,6 +57,8 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="default.html" />
+    <Content Include="js\frogsettings.js" />
+    <Content Include="page1.html" />
     <None Include="Get Out!_StoreKey.pfx" />
     <Content Include="images\f.png" />
     <Content Include="images\g.png" />
@@ -70,7 +73,9 @@
     <Content Include="images\widelogo1.png" />
     <Content Include="js\default.js" />
     <Content Include="css\default.css" />
-    <None Include="Package.StoreAssociation.xml" />
+    <None Include="Package.StoreAssociation.xml">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Get Out!_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

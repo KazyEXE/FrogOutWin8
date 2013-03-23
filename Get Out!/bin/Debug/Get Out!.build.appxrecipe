@@ -7,60 +7,66 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\default.html">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\f.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\page1.html">
+      <PackagePath>page1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\js\frogsettings.js">
+      <PackagePath>js\frogsettings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\f.png">
       <PackagePath>images\f.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\g.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\g.png">
       <PackagePath>images\g.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\logo.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\logo.scale-180.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\logo.scale-180.png">
       <PackagePath>images\logo.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\logo1.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\logo1.png">
       <PackagePath>images\logo1.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\smalllogo.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\splashscreen.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\storelogo.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\WideLogo.scale-180.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\WideLogo.scale-180.png">
       <PackagePath>images\WideLogo.scale-180.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\images\widelogo1.png">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\images\widelogo1.png">
       <PackagePath>images\widelogo1.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\js\default.js">
-      <PackagePath>js\default.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\css\default.css">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Data\Documents\Visual Studio 2012\Projects\FrogOutWin8\Get Out!\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="24369kitfm.GetOut" Version="1.0.0.2" Publisher="CN=2A472A36-3E30-487D-B539-BD4E4F2FF005" ProcessorArchitecture="neutral" />
+  <Identity Name="24369kitfm.GetOut" Version="1.0.0.4" Publisher="CN=2A472A36-3E30-487D-B539-BD4E4F2FF005" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>Get Out!</DisplayName>
     <PublisherDisplayName>kitfm</PublisherDisplayName>
@@ -33,8 +33,9 @@
   </Dependencies>
   <build:Metadata>
     <build:Item Name="VisualStudio" Version="11.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Professional 2012" />
     <build:Item Name="OperatingSystem" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.51106.1" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.60223.1" />
     <build:Item Name="MakePri.exe" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
   </build:Metadata>
 </Package>
