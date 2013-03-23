@@ -1,0 +1,13 @@
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Debug\resources.pri
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Debug\AppxManifest.xml
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Debug\Get Out!.build.appxrecipe
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\priconfig.xml.intermediate
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\layout.resfiles.intermediate
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\resources.resfiles.intermediate
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\pri.resfiles.intermediate
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\priconfig.xml
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\layout.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\resources.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\pri.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\LanguageQualifiers.txt
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Debug\ProjectArchitectures.txt

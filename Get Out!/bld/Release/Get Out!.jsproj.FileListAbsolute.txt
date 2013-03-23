@@ -1,0 +1,9 @@
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Release\resources.pri
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Release\AppxManifest.xml
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bin\Release\Get Out!.build.appxrecipe
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\priconfig.xml
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\layout.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\resources.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\pri.resfiles
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\LanguageQualifiers.txt
+d:\data\documents\visual studio 2012\Projects\Get Out!\Get Out!\bld\Release\ProjectArchitectures.txt
